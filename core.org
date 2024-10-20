@@ -1,0 +1,18 @@
+#+OPTIONS: ^:{} H:0 num:0
+
+* PaperCompany 통합 문서
+** 기본 정보
+| 문서 url | http://43.202.120.110 |
+** 인프라
+*** [[http://3.37.234.198/infra/architecture.org][네트워크 / 아키텍처 구조도]]
+*** [[http://3.37.234.198/infra/accounts.html][계정 관리]]
+*** [[http://3.37.234.198/infra/db.html][DB]]
+** 프로젝트
+| [[http://43.202.120.110/projects/papercompany-orgs/core.html][PaperCompany Orgs]] | 페이퍼컴퍼니 통합 문서 |
+| [[http://43.202.120.110/projects/utopia/core.html][Utopia]]            | 유토피아             |
+** 트러블 슈팅
+*** [[http://43.202.120.110/troubleshoot/common.html][프로젝트별 공통 시나리오]]
+*** [[http://43.202.120.110/troubleshoot/special.html][특수 상황에 대한 시나리오]]
+** [[http://43.202.120.110/studies/core.html][공부 아카이브]]
+** 업무일지
+*** [[http://43.202.120.110/todos/2024/2024-10/core.html][2024-10]]
