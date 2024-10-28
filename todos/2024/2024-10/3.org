@@ -1,6 +1,33 @@
 #+OPTIONS: ^:{} H:0 num:0
 
 * 2024-10 3주차
+** Utopia-Orgs
+- Utopia-Orgs 시작
+- 업무일지 기록 시작
+- 공부 아카이브 core 정리
+** Utopia
+- Utopia 시작
+- profile
+  - prod & dev
+  - debug
+- integrant
+- effects
+  - migratus
+  - conman
+  - utopia-db
+  - dynamic-db
+- actions
+  - hello world
+- nrepl
+** 개인 공부
+*** Computer Networking
+**** 3. 트랜스포트 계층
+- 3.6. 혼잡제어의 원리
+- 3.7. TCP 혼잡제어
+- 3.8. 요약
+**** 4. 네트워크 계층: 데이터 평면
+- 4.1. 네트워크 계층 개요
+- 4.2. 라우터 내부에는 무엇이 있을까?
 * 일일별 업무일지
 - [[http://43.202.120.110/todos/2024/2024-10/2024-10-19.html][2024-10-19]]
 - [[http://43.202.120.110/todos/2024/2024-10/2024-10-20.html][2024-10-20]]

@@ -26,7 +26,6 @@
 *** [선택] 컴파일러론
 ** 생산성
 *** General
-**** Clojure
 **** Docker
 **** Kubernetes
 **** Jenkins

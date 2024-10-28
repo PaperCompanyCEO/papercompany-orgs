@@ -1,27 +1,19 @@
 #+OPTIONS: ^:{} H:0 num:0
 
-* 2024-10-20
+* 2024-10-26
 ** Utopia
-- [X] Utopia 시작
-- [X] integrant
-- [X] migratus
-- [X] conman
-- [X] with-utopia-transaction
-- [X] utopia-query-fn
-- [X] with-dynamic-transaction
-- [X] dynamic-query
-- [X] basic http server
-- [X] actions - hello world
-- [ ] web setting
 - [ ] test setting
 - [ ] cljs setting
 - [ ] web socket setting
+- [ ] malli schema 만들기
+- [ ] auth
+- [ ] 이제까지의 모든것들 중 매크로화 할 수 있는 것들 전부 매크로화하기
 ** 개인 공부
 *** Computer Networking
-**** 3. 트랜스포트 계층
-- [X] 3.6. 혼잡제어의 원리
-- [ ] 3.7. TCP 혼잡제어
-- [ ] 3.8. 요약
+**** 6. 링크 계층: 링크, 접속망, 랜
+- [ ] 6.6. 데이터 센터 네트워킹
+- [ ] 6.7. 총정리: 웹페이지 요청에 대한 처리
+- [ ] 6.8. 요약
 *** Docker
 *** Kubernetes
 *** Jenkins
