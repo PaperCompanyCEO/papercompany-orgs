@@ -1,11 +1,7 @@
 #+OPTIONS: ^:{} H:0 num:0
 
-* 2024-10-27
+* 2024-10-29
 ** Utopia
-- [X] cljs - integrant
-- [X] cljs - reitit
-- [X] cljs - re-frame
-- [ ] cljs - test
 - [ ] integrant prep 과 prep-key deprecated 되었음
 - [ ] fx-cofx 자동 예시 따오기
 - [ ] malli schema 만들기
@@ -15,9 +11,10 @@
 ** 개인 공부
 *** Computer Networking
 **** 6. 링크 계층: 링크, 접속망, 랜
-- [ ] 6.6. 데이터 센터 네트워킹
-- [ ] 6.7. 총정리: 웹페이지 요청에 대한 처리
-- [ ] 6.8. 요약
+- [X] 6.6. 데이터 센터 네트워킹
+- [X] 6.7. 총정리: 웹페이지 요청에 대한 처리
+- [X] 6.8. 요약
+**** 7. 무선 이동 네트워크
 *** Docker
 *** Kubernetes
 *** Jenkins
@@ -47,4 +44,3 @@
 *** Scala 머신러닝
 *** SQL (고급사용 및 최적화)
 *** Java 최적화
-<

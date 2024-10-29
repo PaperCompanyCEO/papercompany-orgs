@@ -1,11 +1,9 @@
 #+OPTIONS: ^:{} H:0 num:0
 
-* 2024-10-27
+* 2024-10-28
 ** Utopia
-- [X] cljs - integrant
-- [X] cljs - reitit
-- [X] cljs - re-frame
-- [ ] cljs - test
+- [X] cljs - test
+- [X] cljs - debug
 - [ ] integrant prep 과 prep-key deprecated 되었음
 - [ ] fx-cofx 자동 예시 따오기
 - [ ] malli schema 만들기
@@ -47,4 +45,3 @@
 *** Scala 머신러닝
 *** SQL (고급사용 및 최적화)
 *** Java 최적화
-<
