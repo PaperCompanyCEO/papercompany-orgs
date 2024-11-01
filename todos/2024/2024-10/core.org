@@ -1,5 +1,46 @@
 #+OPTIONS: ^:{} H:0 num:0
 
 * 2024-10
+** Utopia-Orgs
+- Utopia-Orgs 시작
+- 업무일지 기록 시작
+- 공부 아카이브 core 정리
+** Utopia
+- Utopia 시작
+- profile
+  - prod
+  - dev
+  - test
+  - debug
+- integrant
+- effects
+  - migratus
+  - conman
+  - utopia-db
+  - dynamic-db
+- actions
+  - hello world
+- nrepl
+- cljs
+  - flow-storm
+  - integrant
+  - reitit
+  - re-frame
+  - profile
+    - prod
+    - dev
+    - test
+    - debug
+** 개인 공부
+*** Computer Networking
+3. 트랜스포트 계층
+4. 네트워크 계층: 데이터 평면
+5. 네트워크 계층: 제어 평면
+6. 링크 계층: 링크, 접속망, 랜
+*** Docker
+1. 도커 컨테이너와 이미지 이해하기
+2. 컨테이너로 분산 애플리케이션 실행하기
+** 주별 업무 일지
 - [[http://43.202.120.110/todos/2024/2024-10/3.html][3주차]]
 - [[http://43.202.120.110/todos/2024/2024-10/4.html][4주차]]
+- [[http://43.202.120.110/todos/2024/2024-10/5.html][5주차]]
